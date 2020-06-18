@@ -1,27 +1,13 @@
-# Version Control with Git
+Parallel Forall Code Samples
+============================
 
-This is the repo for [Udacity's Version Control with Git course](). In the course, students will learn version control while learning the basics to intermediate knowledge of Git.
+This repository contains CUDA, OpenACC, Python, MATLAB, and other source code examples from the NVIDIA [Parallel Forall Blog](http://developer.nvidia.com/parallel-forall).
 
-This repo contains the source code of a blog project that will be used throughout the course.
+License
+-------
 
-## Table of Contents
+These examples are released under the BSD open source license.  Refer to license.txt in this directory for full details.
 
-* [Instructions](#instructions)
-* [Creator](#creators)
-
-## Instructions
-
-* clone the project
-* open the index file in a browser
-
-## Creators
-
-* Richard Kalehoff
-    - [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
-    - [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
-
-With the help of:
-
-* Colt
-* James
-* Julia
+List of Code Samples
+--------------------
+posts/002-openacc-example: An example of [OpenACC Directives programming].
