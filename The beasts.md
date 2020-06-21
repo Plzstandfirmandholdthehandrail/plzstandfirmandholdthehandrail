@@ -1,5 +1,9 @@
 # The beasts
 
+群交剧本
+
+又到了繁殖的季节，一群群可爱的两脚羊在草原上奔驰，进行交配。其中大部分都被阉割了，只有少部分才有交配资格。有交配资格的两脚羊大部分都是母羊；对于公羊来说，他们在交配季节过于勇猛好斗，经常把母羊咬伤。这些公羊其貌不扬，一无是处，体力虚浮，毛色暗淡，只有两样特别能；一样是能吃，一样是能干。不管母羊品相如何，他们总是愿意凑上去瞧瞧那个两腿之间的洞的。因为最漂亮的母羊总是有很多竞争者，他们愿意退而求其次。洞总归是洞，母的也总归是母的，里面那个东西一样湿热粘人，也一样能生崽。尤其那档子事总是发生在夜里，谁也看不清。
 
 
-He cared about us, he looked upon us, he watched  for us, he loved us. He is the one and only, the guardian, the god, the father. What we do, the male and female during the breeding season is merely entertainment  when compared with our devotion to our father. 
+
+于是波尔——这片地区的放牧人——早晨起来的时候，经常看见被折腾得奄奄一息的母羊瘫倒在地上，已经被咬得伤痕累累，毛也抓下来几缕，下面那个洞已经红肿撕裂，还一缕一缕淌着精液，而周围总是晃荡着几个若无其事的雄性。没错，母羊很多，但是他们还是愿意许多人折腾同一个；因为母羊并不总愿意和他们交配，必须使用暴力。既然已经费事儿撂倒了一个，他们也用不着再花心思去捕猎其他的。
